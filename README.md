@@ -14,7 +14,7 @@ HOSPEDAGEM DO SITE: https://gskars.github.io/Mentalista-/
  <li> JAVASCRIPT</li>
 </ul>
  
- # Cotatos:
+ # Contatos:
  <UL>
  <LI>Tel: (19)983006268 </LI>
  <LI>Email: gscardazi@gmail.com </LI>
