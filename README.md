@@ -1,11 +1,12 @@
 # Mentalista 
-Clock-Time
 
 
 
-HOSPEDAGEM DO SITE: https://extraordinary-baklava-e15239.netlify.app/
 
- #Tecnologias :
+
+HOSPEDAGEM DO SITE: https://gskars.github.io/Mentalista-/
+
+ # Tecnologias :
 HTML
 CSS
 GIT E GIHUB
