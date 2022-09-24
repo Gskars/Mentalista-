@@ -16,6 +16,6 @@ HOSPEDAGEM DO SITE: https://gskars.github.io/Mentalista-/
  
  # Contatos:
  <UL>
- - Email: gscardazi@hotmail.com 
+ <li> Email: gscardazi@hotmail.com 
  <LI>Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/   </LI>
  </UL>
